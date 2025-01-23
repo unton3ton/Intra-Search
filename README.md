@@ -2,7 +2,7 @@
 
 [![PyPI Downloads](https://static.pepy.tech/badge/intra-search/month)](https://pepy.tech/projects/intra-search) [![PyPI Downloads](https://static.pepy.tech/badge/intra-search)](https://pepy.tech/projects/intra-search)
 
-A tool for performing semantic search within PDF documents using pre-trained Sentence Transformers (aka SBERT) models to find contextually relevant text.
+A tool for performing semantic search within PDF documents using pre-trained Sentence Transformers (aka SBERT).
 
 ![Searching the document](./images/step4.png)
 

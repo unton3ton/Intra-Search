@@ -1,4 +1,4 @@
-# Intra-Search
+# [Intra-Search](https://deepwiki.com/monish-prabhu/Intra-Search)
 
 [![PyPI Downloads](https://static.pepy.tech/badge/intra-search/month)](https://pepy.tech/projects/intra-search) [![PyPI Downloads](https://static.pepy.tech/badge/intra-search)](https://pepy.tech/projects/intra-search)
 
